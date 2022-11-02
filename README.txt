@@ -2,7 +2,7 @@ The purpose of this code was to practice solving for
 A minimum spanning tree by using a variation of Prim's
 Algorithm. 
 
-The code reads in an imputes file named 'input_MST.txt'
+The code reads in an input file named 'input_MST.txt'
 That describes the layout of an adjacency matrix. 
 	-The first line is the maximum number of vertices
 	-The second line is the number of edges in matrix
